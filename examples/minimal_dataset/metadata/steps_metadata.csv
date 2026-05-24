@@ -1,0 +1,3 @@
+idx,label,start,end,nImgPair,s2_center_ms,nS1,s1_center_ms,fallback_used
+0,STEP_00_YYYYMMDD_YYYYMMDD,YYYY-MM-DD,YYYY-MM-DD,,,,,
+1,STEP_01_YYYYMMDD_YYYYMMDD,YYYY-MM-DD,YYYY-MM-DD,,,,,

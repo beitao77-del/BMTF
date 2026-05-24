@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "BMTF Open-Source Code (Manuscript Version)"
+type: software
+version: 1.0.0
+date-released: 2026-05-24
+license: MIT
+authors:
+  - family-names: "Contributors"
+    given-names: "BMTF"
+abstract: >
+  Open-source implementation of the BMTF workflow for aquatic vegetation
+  monitoring, including GEE data preparation and Python recursive Bayesian
+  multi-source temporal fusion (AEA + OPE).
+keywords:
+  - aquatic vegetation
+  - Sentinel-1
+  - Sentinel-2
+  - Bayesian temporal fusion
+  - remote sensing
+
