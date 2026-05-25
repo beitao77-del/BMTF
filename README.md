@@ -1,4 +1,4 @@
-# BMTF Open-Source Code (Manuscript Version)
+﻿# BMTF Open-Source Code (Manuscript Version)
 
 This folder contains the manuscript-oriented implementation for:
 
@@ -7,36 +7,40 @@ This folder contains the manuscript-oriented implementation for:
 
 The implementation is organized to make method logic clear for paper readers and reviewers.
 
+## Data Availability
+
+Related data are available at [https://doi.org/10.5281/zenodo.20371725](https://doi.org/10.5281/zenodo.20371725).
+
 ## Folder Structure
 
 ```text
 BMTF/
-├─ LICENSE
-├─ CITATION.cff
-├─ .gitignore
-├─ gee/
-│  └─ 01_prepare_10day_dataset.js
-├─ python/
-│  ├─ requirements.txt
-│  ├─ example_config.json
-│  ├─ README.md
-│  ├─ run_bmtf.py
-│  └─ bmtf/
-│     ├─ __init__.py
-│     ├─ config.py
-│     ├─ io.py
-│     ├─ sar.py
-│     └─ model.py
-├─ examples/
-│  └─ minimal_dataset/
-│     ├─ README.md
-│     ├─ metadata/
-│     │  └─ steps_metadata.csv
-│     ├─ STEP_00_YYYYMMDD_YYYYMMDD/
-│     │  └─ README.md
-│     └─ STEP_01_YYYYMMDD_YYYYMMDD/
-│        └─ README.md
-└─ CODE_MAP.md
+鈹溾攢 LICENSE
+鈹溾攢 CITATION.cff
+鈹溾攢 .gitignore
+鈹溾攢 gee/
+鈹? 鈹斺攢 01_prepare_10day_dataset.js
+鈹溾攢 python/
+鈹? 鈹溾攢 requirements.txt
+鈹? 鈹溾攢 example_config.json
+鈹? 鈹溾攢 README.md
+鈹? 鈹溾攢 run_bmtf.py
+鈹? 鈹斺攢 bmtf/
+鈹?    鈹溾攢 __init__.py
+鈹?    鈹溾攢 config.py
+鈹?    鈹溾攢 io.py
+鈹?    鈹溾攢 sar.py
+鈹?    鈹斺攢 model.py
+鈹溾攢 examples/
+鈹? 鈹斺攢 minimal_dataset/
+鈹?    鈹溾攢 README.md
+鈹?    鈹溾攢 metadata/
+鈹?    鈹? 鈹斺攢 steps_metadata.csv
+鈹?    鈹溾攢 STEP_00_YYYYMMDD_YYYYMMDD/
+鈹?    鈹? 鈹斺攢 README.md
+鈹?    鈹斺攢 STEP_01_YYYYMMDD_YYYYMMDD/
+鈹?       鈹斺攢 README.md
+鈹斺攢 CODE_MAP.md
 ```
 
 ## Workflow Diagram
@@ -77,3 +81,4 @@ This code folder corresponds to the manuscript methodology chapters:
 - Section 3: BMTF recursive Bayesian updating + AEA + OPE
 
 See [`CODE_MAP.md`](CODE_MAP.md) for equation-to-code mapping.
+
