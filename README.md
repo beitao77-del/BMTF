@@ -1,18 +1,11 @@
 # BMTF Open-Source Code (Manuscript Version)
 
-This folder contains a cleaned, manuscript-oriented code organization for:
+This folder contains the manuscript-oriented implementation for:
 
 - Satellite data preparation and export in **Google Earth Engine (GEE)**
 - **BMTF** (Bayesian Multi-source Temporal Fusion) recursive inference in Python
 
-The goal is to make the method logic clear for paper readers and reviewers.
-
-## Important Notes
-
-- This package is intentionally designed for **method transparency**, not one-click reproduction.
-- **No dataset or ROI assets are included**.
-- You need to provide your own GEE assets, exported rasters, and sample data.
-- Some scripts are simplified abstractions of the production pipeline.
+The implementation is organized to make method logic clear for paper readers and reviewers.
 
 ## Folder Structure
 
