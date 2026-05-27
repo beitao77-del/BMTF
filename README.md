@@ -10,6 +10,12 @@ The implementation is organized to make method logic clear for paper readers and
 ## Data Availability
 
 Related data are available at [https://doi.org/10.5281/zenodo.20371725](https://doi.org/10.5281/zenodo.20371725).
+The Zenodo dataset is released under **CC BY 4.0**.
+
+## License
+
+This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+See [LICENSE](LICENSE) or [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 ## Folder Structure
 
